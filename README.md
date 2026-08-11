@@ -5,7 +5,7 @@ Mice? Commentary on: Acute requirement for the hippocampus in putatively
 conscious vision revealed by a mouse model of blindsight by Bhatla et al.
 (2026)”** by Konstantin Demin, Kiyofumi Miyoshi, and Hakwan Lau.
 
-It contains the code, methods, figure legend, and reference output needed to
+It contains the code, methods, and reference output needed to
 repeat the unequal-variance signal detection theory (SDT) analysis reported in
 Figure 2 and the Supplementary Methods. The original behavioral data are not redistributed
 and is available at https://iam.science/data/.
