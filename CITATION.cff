@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: >-
+  If you use this analysis, please cite the associated commentary and the
+  original Bhatla et al. study.
+title: >-
+  Unequal-variance signal detection analysis for "Blindsight Mice or Rational
+  Mice?"
+type: software
+authors:
+  - family-names: Demin
+    given-names: Konstantin
+  - family-names: Miyoshi
+    given-names: Kiyofumi
+  - family-names: Lau
+    given-names: Hakwan
+version: 1.0.0
+date-released: 2026-08-11
+keywords:
+  - blindsight
+  - signal detection theory
+  - unequal variance
+  - mouse vision
+  - reproducibility
