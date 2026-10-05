@@ -31,6 +31,6 @@ The behavioral data belong to the original study and are not included here.
 You can download them from the authors’ official repository:
 
 - Data landing page: <https://iam.science/data/>
-- Direct archive: <https://iam.science/data/Bhatla_et_al_2026_DATA.zip>
+- Direct archive: <https://iam.science/data/Bhatla_et_al_2026_DATA_v2.zip>
 - Original article: Bhatla et al. (2026), *Current Biology* 36,
   2043–2062.e7, <https://doi.org/10.1016/j.cub.2026.03.031>
